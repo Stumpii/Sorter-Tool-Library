@@ -1,0 +1,17 @@
+{
+  "HelperSettings": {
+    "DRHMIConfigFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\Petrobrazzi\\D-R HMI Config For CT40822-Petrobrazi Rev200.xls",
+    "ExportAsSample": false,
+    "ModbusListOutputFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\Petrobrazzi\\Output\\Modbus List Output.txt",
+    "OPCListOutputFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\Petrobrazzi\\Output\\OPC List Output.txt",
+    "OutputTemplateFolder": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R HMI Converter\\Templates\\Output",
+    "SimaticS7OutputFilePath": null,
+    "SimaticS7OutputSymbolFilePath": null,
+    "SimaticS7TextLibraryOutputFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\Petrobrazzi\\Output\\Simatic S7 Text Library Output.txt",
+    "SorterToolImportFilepath": null,
+    "SorterToolUseTagname": false,
+    "TriStationTagOutputTagFilePath": null,
+    "WinCC74ConnectionName": "NewConnection_1",
+    "WinCC74OutputTagFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\Petrobrazzi\\Output\\WinCC 7.4 Tag Output.txt"
+  }
+}

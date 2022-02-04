@@ -321,6 +321,16 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+*.AWL
+Resources/Archive/D-R HMI Config For CT40822-Petrobrazi*
+Resources/WinCC 7.4 Tag Output*
+Resources/TriStation Tag Output*
+Resources/Simatic S7 Text Library Output*
+Resources/OPC List Output*
+Resources/Modbus List Output*
+Resources/D-R HMI Config For CT40822-Petrobrazi*
+Resources/CT158698_S7_DATA_Sorter_Tool*
+Source/D-R EngineTests/Resources/Karish/Output/
 
 # OpenCover UI analysis results
 OpenCover/

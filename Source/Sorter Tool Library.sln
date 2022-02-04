@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorter Tool Library", "Sorter Tool Library\Sorter Tool Library.csproj", "{C436FADC-B24B-4B64-89A2-97CC094C52B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorter Tool Library Tests", "Sorter Tool Library Tests\Sorter Tool Library Tests.csproj", "{54731C5A-ABF2-41D0-AFA0-B18881886E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C436FADC-B24B-4B64-89A2-97CC094C52B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C436FADC-B24B-4B64-89A2-97CC094C52B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C436FADC-B24B-4B64-89A2-97CC094C52B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C436FADC-B24B-4B64-89A2-97CC094C52B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54731C5A-ABF2-41D0-AFA0-B18881886E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54731C5A-ABF2-41D0-AFA0-B18881886E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54731C5A-ABF2-41D0-AFA0-B18881886E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54731C5A-ABF2-41D0-AFA0-B18881886E73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE2D2912-B324-4AED-9435-64F8A22D06DE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+{
+  "HelperSettings": {
+    "DRHMIConfigFilePath": "",
+    "ExportAsSample": false,
+    "ModbusListOutputFilePath": null,
+    "OPCListOutputFilePath": null,
+    "OutputTemplateFolder": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R HMI Converter\\Templates\\Output",
+    "SimaticS7OutputFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\CT163496 Fulcrum Sierra\\Output",
+    "SimaticS7OutputSymbolFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\CT163496 Fulcrum Sierra\\Output\\Symbols.sdf",
+    "SimaticS7TextLibraryOutputFilePath": "",
+    "SorterToolImportFilepath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\CT163496 Fulcrum Sierra\\S7_DATA_Sorter_Tool_v5.xlsm",
+    "SorterToolUseTagname": false,
+    "TriStationTagOutputTagFilePath": null,
+    "WinCC74ConnectionName": "NewConnection_1",
+    "WinCC74OutputTagFilePath": null
+  }
+}

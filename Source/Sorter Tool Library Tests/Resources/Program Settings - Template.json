@@ -1,0 +1,17 @@
+{
+  "HelperSettings": {
+    "DRHMIConfigFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R HMI Converter\\Templates\\Input\\D-R HMI Config (Clean) v2WIP.xls",
+    "ExportAsSample": false,
+    "ModbusListOutputFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\Template\\Output\\Modbus List Output.txt",
+    "OPCListOutputFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\Template\\Output\\OPC List Output.txt",
+    "OutputTemplateFolder": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R HMI Converter\\Templates\\Output",
+    "SimaticS7OutputFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\Template\\Output",
+    "SimaticS7OutputSymbolFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\Template\\Output\\Symbols.sdf",
+    "SimaticS7TextLibraryOutputFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\Template\\Output\\Simatic S7 Text Library Output.txt",
+    "SorterToolImportFilepath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R HMI Converter\\Templates\\Input\\S7_DATA_Sorter_Tool_v7.xlsm",
+    "SorterToolUseTagname": false,
+    "TriStationTagOutputTagFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\Template\\Output\\TriStation Tags.csv",
+    "WinCC74ConnectionName": "NewConnection_1",
+    "WinCC74OutputTagFilePath": "D:\\Lapdata\\Visual Studio 2017\\Projects\\D-R HMI Converter\\Source\\D-R EngineTests\\Resources\\Template\\Output\\WinCC 7.4 Tag Output.txt"
+  }
+}
